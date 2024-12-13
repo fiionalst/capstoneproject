@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "projek-capstone-fiona",
+  "private_key_id": "1e98219b1494e154c858d68b79d5df69ea825cb8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC56DSmso3tpa6E\nvdD6dfzLn57LZYC/AnLvglCznu8QVVs24Ae9Zn4Sc4H3EJvZadaayf2uOcft1W+M\npIeYK5KQb9/5pK9pKCiKXE+3wGOuy8HA2MlqfX6bh/eNbVLJ9Idj6rRhwzHaE3ah\nzgxblPqvPaXz1oHStC/JNQzj361zNg4kp4utKUTdzurevSXJQJ274G6ukmuPrO4B\nz/LujVu98IDI3bXW/33XgEBUmFBcLkAIy/xMgE2zQTiaMIA23boJPTInqeRsx1i3\nrqc3TcIpxva/g8wclwMUQPwDXaz5yy8C24rhzzNnlBMFz8K8VEgy4mun8l5qSMBQ\n3MwF3MFXAgMBAAECggEAAY9nUbbR5hqr2kVViaSP2I2gYYiaif/VQxlO4BMHYpW0\nzEMZDYfcqv75Kj+jbzGqMWZckKe/e8l8xCtlT+udsUSfFpNBPZqurGqV6K7ep0ri\nd2HaXuBqvZdohnFSbot0z2va0681reTX7Ae0ptgbOnlD+UXllQUaGZAuaYMpC3x2\n9ycLO2S+G51J2tiiii39X8rD0jN8RGUi9O6u5neHqCir5AXsknXjU1aqLsmby3IS\ncRV9+hOjv5lI6ZZY/QfLUSncsCZPLfzpEAa/ZaGcIgF9rpAdK6Ra9mhl8RvUkiKw\navkVmIaMrJr8JCk/+rEHG+VpfbHdQxwnpFXzkSyC0QKBgQDyz0cSKvGWbDZ8aF5T\nXTxMX9vHvfsQwN6nigK5s3DfppsYSThf3qXBS10aO3O8rmKI7V0RN755JsU4XE+G\nMcgnHMt3TdpRMTD4gnL1cVIR9wAWpmLW9dbBbW4vhrrj8B/hjaMCIZvgqsADXr18\nF5O2e1pB2ZBtlbI5ppDa3HFzPQKBgQDEAZc4JDUe6uUDWFp0BV7S23zrYJ+D0s6T\ns4wjSN/rA6G4O8aSTNle4rdi3Lsc9nf8YyTh+QIk9iCIre6sHOxzwgEosVFInycb\n0MiHtMIU6ldPyDwT/CZgBDY+SYq7FwvcC1QyW5g727T+XOHNpxODUsBNmLCfY0nX\nbQvBKWIAIwKBgEphTLg4B4G47If3wM1wxkPvKXhqrjpXmt1f3a3dVjps4x3xcB+O\nKOCpoX+jrrSiBvVDITthBCxAwDGftYy6O0IgBAQsCTDODN5Tt7uQVz/BlnlZxvVq\nobrnNtXARAgHSvzhUooYmZOdOuzNXOZiopFIAEIjz6aCMPKQH9erp+VRAoGATA4p\n9VjnW+Xdk1y3TInA76THZjYJ74bfLaTf3dkrOfAg0nIvbRlwx0bFzhDEckqY6FA4\nQY7z7A+tNBv5nsNiZNCEzptvZPSMolhzV2UmYiNEWerilQakhWFdAvJaaJpaubmT\npC6ydZedNY4o+Dm6cpyrjfCPqGlIf9UKWJuMMW0CgYB9qQlsB4ResnJFgol4Xuzv\niWtOH5qzucyxNW12uCnE1GfUAqb++tns7BkLByWwl+zoX0nF5KjgSnqrn3ujDzj6\nxioLhJS++p73FoB5x6hfnxwtD53+QXO5nLcpnkOryPCSyNJv6zy+UC8Zsu5qm6B2\ntU1ndTKVSLFQIgB/lopPKA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "fiona-bucket-viewer@projek-capstone-fiona.iam.gserviceaccount.com",
+  "client_id": "104004611424436989492",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fiona-bucket-viewer%40projek-capstone-fiona.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
